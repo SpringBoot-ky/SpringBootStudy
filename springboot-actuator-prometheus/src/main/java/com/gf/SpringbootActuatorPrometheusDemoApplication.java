@@ -32,6 +32,7 @@ public class SpringbootActuatorPrometheusDemoApplication {
         return "ok";
     }
 
+
     /**
     @Bean
     MeterRegistryCustomizer<MeterRegistry> metricsCommonTags() {
